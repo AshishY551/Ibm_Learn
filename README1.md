@@ -1,5 +1,17 @@
 Lab: Build an AI-Powered Document Retrieval System with IBM Granite and Docling
 ----
+My notebook link-
+
+https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/RAG/Granite_Docling_RAG.ipynb
+
+
+-----
+
+Link repo-For Local lab set-up::
+
+https://github.com/IBM/granite-workshop/tree/main/docs/pre-work#running-the-granite-notebooks-locally
+
+----
 Prerequisite knowledge
 
 Familiarity with Python is required to complete the lab. The Machine Learning with Python(opens in a new tab) course is a great place to start.
